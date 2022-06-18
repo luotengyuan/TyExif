@@ -1,0 +1,3 @@
+include ':TyExif'
+include ':demo'
+rootProject.name = "TyExif"
